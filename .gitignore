@@ -1,0 +1,30 @@
+# 登录凭证与用户数据
+cookies.json
+ocr.tsv
+*.txt.bak
+
+# 浏览器临时配置
+edge-profile/
+edge-live/
+edge-profile*/
+
+# 抓取产物（绝不能提交）
+slides/
+教案PDF/
+OCR文本/
+out/
+output/
+data/
+*.pdf
+
+# Python / Node
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
